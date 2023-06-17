@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Rockpaperscissors</string>
+    <string name="home_screen_title">Welcome!</string>
+    <string name="home_screen_subtitle">Tap anywhere to begin!</string>
+    <string name="game_player_choice">Your Choice</string>
+    <string name="game_computer_choice">Ai\'s Choice</string>
+    <string name="game_paper_text">Paper</string>
+    <string name="game_rock_text">Rock</string>
+    <string name="game_scissor_text">Scissor</string>
+    <string name="game_submit_button_text">Lock in</string>
+    <string name="rps_scissor_description">Scissor Icon</string>
+    <string name="rps_paper_description">Paper Icon</string>
+    <string name="rps_rock_description">Rock Icon</string>
+    <string name="rps_question_mark_description">Question Mark Icon</string>
+    <string name="result_loss">You Lost!</string>
+    <string name="result_tie">You Tied!</string>
+    <string name="result_win">You Won!</string>
+    <string name="result_subtitle">Tap screen to go again.</string>
+
+</resources>
